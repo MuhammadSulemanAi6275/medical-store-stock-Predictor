@@ -1,0 +1,205 @@
+Date,Medicine_Name,Category,Supplier,Units_Purchased,Units_Sold,Current_Stock,Expiry_Date,Is_Shortage
+5/6/2025,Paracetamol,Antihistamine,LifeLine Pharma,63,166,-103,7/31/2026,0
+6/15/2025,Amoxicillin,Antihistamine,HealthCorp,57,175,0,2/18/2026,1
+1/9/2025,Cetirizine,Antibiotic,PharmaPlus,131,141,0,5/5/2026,1
+4/22/2025,Metformin,Antacid,LifeLine Pharma,28,233,0,4/1/2026,1
+2/16/2025,Paracetamol,Antihistamine,PharmaPlus,84,163,-79,7/29/2025,0
+5/8/2025,Ibuprofen,Antacid,HealthCorp,49,53,0,9/2/2025,1
+5/24/2025,Ciprofloxacin,Antidiabetic,HealthCorp,30,203,0,12/21/2026,1
+4/3/2025,Cetirizine,Painkiller,PharmaPlus,129,248,0,6/7/2026,1
+3/19/2025,Paracetamol,Antihistamine,PharmaPlus,194,249,-55,1/6/2027,0
+5/15/2025,Azithromycin,Antihistamine,MediCare Ltd.,34,220,0,4/19/2027,1
+5/18/2025,Metformin,Antihistamine,LifeLine Pharma,85,170,0,1/23/2027,1
+6/11/2025,Aspirin,Painkiller,CareWell Distributors,117,215,0,1/13/2026,1
+3/10/2025,Paracetamol,Antacid,HealthCorp,140,268,-110,3/4/2026,1
+6/8/2025,Cetirizine,Painkiller,MediCare Ltd.,124,152,0,7/29/2026,1
+1/18/2025,Amoxicillin,Antacid,LifeLine Pharma,141,18,123,8/16/2026,0
+5/21/2025,Metformin,Antacid,PharmaPlus,74,221,0,10/22/2026,1
+1/15/2025,Cetirizine,Painkiller,HealthCorp,84,194,0,5/25/2026,1
+2/6/2025,Azithromycin,Antacid,CareWell Distributors,20,178,0,12/23/2026,1
+6/12/2025,Omeprazole,Painkiller,LifeLine Pharma,62,38,24,10/17/2025,0
+1/28/2025,Amoxicillin,Antidiabetic,HealthCorp,145,53,92,2/20/2026,0
+5/14/2025,Ibuprofen,Antacid,MediCare Ltd.,45,187,0,10/22/2025,1
+4/20/2025,Omeprazole,Antibiotic,MediCare Ltd.,148,176,0,11/30/2025,1
+3/16/2025,Loratadine,Antacid,PharmaPlus,167,24,143,2/7/2027,0
+1/8/2025,Ibuprofen,Antacid,LifeLine Pharma,97,157,0,9/4/2026,1
+1/9/2025,Loratadine,Antibiotic,MediCare Ltd.,162,25,137,5/29/2025,0
+3/18/2025,Amoxicillin,Antibiotic,LifeLine Pharma,101,211,0,9/8/2025,1
+5/18/2025,Aspirin,Antidiabetic,HealthCorp,147,202,0,10/27/2026,1
+3/31/2025,Loratadine,Antihistamine,MediCare Ltd.,137,181,0,12/12/2025,1
+4/21/2025,Azithromycin,Painkiller,HealthCorp,190,144,46,7/24/2025,0
+3/22/2025,Omeprazole,Antacid,PharmaPlus,123,70,53,10/7/2026,0
+4/9/2025,Ibuprofen,Painkiller,CareWell Distributors,158,157,1,12/20/2026,0
+5/31/2025,Aspirin,Painkiller,LifeLine Pharma,160,101,59,7/20/2026,0
+6/8/2025,Metformin,Antacid,CareWell Distributors,132,114,18,9/14/2025,0
+3/25/2025,Ciprofloxacin,Antihistamine,CareWell Distributors,66,32,34,3/13/2026,0
+6/12/2025,Azithromycin,Painkiller,LifeLine Pharma,192,11,181,1/8/2026,0
+4/16/2025,Metformin,Painkiller,HealthCorp,105,151,0,4/5/2027,1
+4/4/2025,Aspirin,Painkiller,CareWell Distributors,150,145,5,12/1/2025,0
+5/12/2025,Metformin,Antidiabetic,CareWell Distributors,65,143,0,1/29/2026,1
+4/12/2025,Paracetamol,Antacid,LifeLine Pharma,170,335,-110,8/24/2025,1
+6/5/2025,Ciprofloxacin,Antihistamine,LifeLine Pharma,199,144,55,3/28/2026,0
+4/4/2025,Loratadine,Antidiabetic,PharmaPlus,80,127,0,11/11/2025,1
+1/2/2025,Metformin,Antibiotic,LifeLine Pharma,96,33,63,8/3/2026,0
+6/10/2025,Loratadine,Antihistamine,LifeLine Pharma,186,182,4,3/22/2027,0
+4/3/2025,Omeprazole,Painkiller,MediCare Ltd.,147,162,0,10/1/2025,1
+5/1/2025,Loratadine,Antibiotic,CareWell Distributors,169,80,89,3/22/2026,0
+2/26/2025,Cetirizine,Painkiller,PharmaPlus,157,246,0,4/23/2026,1
+2/19/2025,Ibuprofen,Antacid,HealthCorp,70,111,0,6/17/2026,1
+1/21/2025,Metformin,Antacid,PharmaPlus,155,183,0,10/30/2026,1
+5/6/2025,Ciprofloxacin,Painkiller,LifeLine Pharma,104,217,0,12/6/2026,1
+2/28/2025,Paracetamol,Antacid,MediCare Ltd.,136,253,-110,8/7/2026,1
+4/21/2025,Ciprofloxacin,Antidiabetic,MediCare Ltd.,184,137,47,7/4/2026,0
+2/9/2025,Paracetamol,Painkiller,LifeLine Pharma,164,175,-11,10/10/2025,0
+4/27/2025,Azithromycin,Antidiabetic,HealthCorp,151,232,0,1/6/2026,1
+6/28/2025,Azithromycin,Antacid,MediCare Ltd.,180,59,121,12/14/2026,0
+3/23/2025,Ciprofloxacin,Antihistamine,LifeLine Pharma,173,95,78,1/20/2027,0
+3/16/2025,Loratadine,Antacid,CareWell Distributors,53,103,0,12/26/2025,1
+3/30/2025,Paracetamol,Antibiotic,PharmaPlus,177,260,-83,11/16/2025,0
+3/18/2025,Omeprazole,Antihistamine,HealthCorp,109,178,0,4/4/2026,1
+4/10/2025,Loratadine,Antidiabetic,LifeLine Pharma,106,107,0,1/22/2026,1
+1/16/2025,Azithromycin,Antidiabetic,PharmaPlus,126,72,54,1/29/2026,0
+2/22/2025,Omeprazole,Antibiotic,HealthCorp,54,199,0,8/18/2026,1
+2/23/2025,Metformin,Painkiller,MediCare Ltd.,142,124,18,2/2/2027,0
+4/30/2025,Ciprofloxacin,Antacid,CareWell Distributors,123,160,0,3/28/2027,1
+4/16/2025,Metformin,Antibiotic,HealthCorp,182,58,124,2/5/2026,0
+2/5/2025,Metformin,Antacid,LifeLine Pharma,74,197,0,1/10/2026,1
+4/10/2025,Aspirin,Antidiabetic,HealthCorp,124,157,0,1/14/2026,1
+3/15/2025,Cetirizine,Antacid,PharmaPlus,96,122,0,1/23/2027,1
+4/8/2025,Ibuprofen,Antibiotic,MediCare Ltd.,96,232,0,10/20/2025,1
+3/8/2025,Amoxicillin,Antihistamine,LifeLine Pharma,132,188,0,2/4/2026,1
+1/19/2025,Loratadine,Painkiller,LifeLine Pharma,25,159,0,6/8/2025,1
+1/7/2025,Azithromycin,Antihistamine,LifeLine Pharma,144,154,0,9/8/2026,1
+2/23/2025,Loratadine,Antidiabetic,PharmaPlus,82,119,0,1/9/2027,1
+5/20/2025,Ciprofloxacin,Antibiotic,LifeLine Pharma,47,158,0,10/18/2026,1
+6/19/2025,Loratadine,Antacid,PharmaPlus,157,114,43,6/10/2026,0
+2/19/2025,Metformin,Antidiabetic,HealthCorp,196,178,18,12/26/2026,0
+6/18/2025,Ciprofloxacin,Antacid,LifeLine Pharma,107,238,0,4/23/2026,1
+6/9/2025,Paracetamol,Antihistamine,CareWell Distributors,89,245,-110,10/5/2025,1
+6/13/2025,Azithromycin,Antacid,MediCare Ltd.,74,187,0,10/4/2025,1
+3/5/2025,Cetirizine,Antacid,PharmaPlus,186,207,0,11/11/2026,1
+5/2/2025,Omeprazole,Antibiotic,LifeLine Pharma,144,18,126,11/10/2026,0
+5/2/2025,Cetirizine,Painkiller,PharmaPlus,197,37,160,10/28/2025,0
+5/3/2025,Loratadine,Painkiller,LifeLine Pharma,140,189,0,9/30/2025,1
+3/24/2025,Cetirizine,Antibiotic,HealthCorp,199,245,0,4/4/2026,1
+6/19/2025,Ibuprofen,Antihistamine,PharmaPlus,139,31,108,2/24/2027,0
+1/24/2025,Omeprazole,Antihistamine,CareWell Distributors,197,120,77,12/3/2026,0
+3/10/2025,Azithromycin,Antibiotic,HealthCorp,159,81,78,12/12/2026,0
+5/6/2025,Azithromycin,Antibiotic,HealthCorp,193,88,105,11/1/2026,0
+5/3/2025,Paracetamol,Antidiabetic,MediCare Ltd.,169,342,-110,2/15/2026,1
+2/28/2025,Metformin,Antidiabetic,CareWell Distributors,56,106,0,11/13/2025,1
+3/17/2025,Ibuprofen,Antacid,HealthCorp,79,91,0,1/19/2026,1
+5/7/2025,Aspirin,Antacid,CareWell Distributors,117,126,0,8/10/2025,1
+1/5/2025,Loratadine,Antibiotic,PharmaPlus,95,161,0,8/19/2025,1
+4/29/2025,Cetirizine,Antihistamine,HealthCorp,27,140,0,4/10/2027,1
+3/11/2025,Ciprofloxacin,Antihistamine,PharmaPlus,154,250,0,10/22/2026,1
+2/15/2025,Ibuprofen,Antihistamine,LifeLine Pharma,71,180,0,4/11/2026,1
+4/7/2025,Aspirin,Painkiller,PharmaPlus,77,129,0,7/16/2025,1
+4/23/2025,Azithromycin,Painkiller,HealthCorp,67,201,0,1/20/2026,1
+3/8/2025,Metformin,Painkiller,MediCare Ltd.,39,222,0,11/3/2026,1
+1/12/2025,Paracetamol,Antacid,LifeLine Pharma,55,260,-110,1/9/2026,1
+5/21/2025,Omeprazole,Antihistamine,PharmaPlus,42,96,0,9/14/2025,1
+4/2/2025,Cetirizine,Antacid,LifeLine Pharma,150,41,109,7/23/2026,0
+3/6/2025,Paracetamol,Antacid,CareWell Distributors,158,315,-110,9/19/2026,1
+6/12/2025,Paracetamol,Antibiotic,MediCare Ltd.,130,282,-110,9/30/2025,1
+3/14/2025,Aspirin,Antihistamine,HealthCorp,42,118,0,7/19/2025,1
+5/26/2025,Ciprofloxacin,Antihistamine,PharmaPlus,92,196,0,10/3/2025,1
+6/15/2025,Aspirin,Antibiotic,HealthCorp,30,109,0,5/14/2027,1
+2/1/2025,Ciprofloxacin,Painkiller,LifeLine Pharma,103,89,14,9/25/2026,0
+2/24/2025,Aspirin,Painkiller,PharmaPlus,191,246,0,4/7/2026,1
+4/22/2025,Ciprofloxacin,Antidiabetic,MediCare Ltd.,72,225,0,12/23/2026,1
+3/3/2025,Amoxicillin,Antidiabetic,PharmaPlus,159,193,0,9/29/2026,1
+6/5/2025,Paracetamol,Painkiller,MediCare Ltd.,112,175,-63,3/20/2027,0
+3/5/2025,Amoxicillin,Antihistamine,PharmaPlus,49,162,0,12/5/2026,1
+4/27/2025,Amoxicillin,Antacid,CareWell Distributors,51,200,0,10/4/2025,1
+1/30/2025,Aspirin,Antibiotic,PharmaPlus,91,92,0,4/25/2026,1
+3/4/2025,Ibuprofen,Antihistamine,LifeLine Pharma,95,226,0,11/9/2026,1
+1/21/2025,Metformin,Antacid,MediCare Ltd.,179,241,0,11/1/2026,1
+3/26/2025,Aspirin,Antacid,LifeLine Pharma,183,227,0,6/21/2026,1
+1/8/2025,Aspirin,Antacid,LifeLine Pharma,107,112,0,5/31/2025,1
+5/23/2025,Omeprazole,Painkiller,CareWell Distributors,162,118,44,11/1/2026,0
+1/3/2025,Loratadine,Antihistamine,PharmaPlus,58,210,0,8/22/2026,1
+3/5/2025,Azithromycin,Antidiabetic,LifeLine Pharma,48,232,0,7/20/2025,1
+3/16/2025,Amoxicillin,Antibiotic,MediCare Ltd.,119,130,0,6/19/2025,1
+5/29/2025,Paracetamol,Antidiabetic,MediCare Ltd.,33,198,-110,3/13/2026,1
+4/5/2025,Azithromycin,Antacid,LifeLine Pharma,83,15,68,10/19/2026,0
+3/18/2025,Cetirizine,Antacid,CareWell Distributors,130,212,0,10/11/2026,1
+2/21/2025,Omeprazole,Antacid,MediCare Ltd.,196,153,43,6/10/2026,0
+1/21/2025,Metformin,Painkiller,MediCare Ltd.,141,102,39,3/4/2026,0
+6/7/2025,Paracetamol,Antacid,CareWell Distributors,177,199,-22,5/26/2027,0
+2/17/2025,Ibuprofen,Antacid,HealthCorp,199,118,81,11/30/2026,0
+5/23/2025,Ciprofloxacin,Antibiotic,PharmaPlus,170,158,12,4/3/2026,0
+6/25/2025,Paracetamol,Antihistamine,PharmaPlus,179,238,-59,1/28/2027,0
+1/12/2025,Paracetamol,Painkiller,LifeLine Pharma,59,315,-110,5/29/2025,1
+4/15/2025,Metformin,Antibiotic,CareWell Distributors,70,180,0,4/29/2026,1
+3/20/2025,Omeprazole,Antibiotic,CareWell Distributors,65,168,0,3/28/2026,1
+2/24/2025,Ciprofloxacin,Painkiller,HealthCorp,138,55,83,7/1/2025,0
+3/23/2025,Omeprazole,Antibiotic,CareWell Distributors,157,108,49,2/7/2027,0
+3/18/2025,Ibuprofen,Antidiabetic,PharmaPlus,147,178,0,5/31/2026,1
+6/6/2025,Amoxicillin,Antibiotic,PharmaPlus,98,94,4,11/7/2026,0
+1/15/2025,Azithromycin,Painkiller,CareWell Distributors,76,27,49,10/23/2025,0
+5/23/2025,Ibuprofen,Antacid,MediCare Ltd.,81,174,0,12/14/2025,1
+1/6/2025,Aspirin,Painkiller,CareWell Distributors,148,111,37,11/17/2026,0
+6/22/2025,Ciprofloxacin,Antihistamine,HealthCorp,122,233,0,4/5/2027,1
+5/19/2025,Paracetamol,Antacid,HealthCorp,172,176,-4,4/22/2027,0
+3/19/2025,Cetirizine,Painkiller,CareWell Distributors,79,58,21,5/22/2026,0
+6/30/2025,Metformin,Antidiabetic,CareWell Distributors,192,52,140,10/23/2026,0
+1/16/2025,Cetirizine,Painkiller,PharmaPlus,88,136,0,6/8/2026,1
+5/11/2025,Ciprofloxacin,Antibiotic,MediCare Ltd.,28,113,0,2/24/2026,1
+1/16/2025,Paracetamol,Antacid,PharmaPlus,149,336,-110,5/12/2025,1
+5/14/2025,Loratadine,Antihistamine,PharmaPlus,90,38,52,2/25/2026,0
+2/10/2025,Ibuprofen,Antacid,CareWell Distributors,155,149,6,10/22/2025,0
+1/8/2025,Metformin,Painkiller,HealthCorp,188,193,0,10/6/2025,1
+6/24/2025,Cetirizine,Painkiller,HealthCorp,175,213,0,2/10/2027,1
+4/7/2025,Paracetamol,Painkiller,LifeLine Pharma,121,303,-110,4/20/2026,1
+3/16/2025,Loratadine,Antidiabetic,MediCare Ltd.,23,150,0,9/6/2026,1
+4/24/2025,Metformin,Antibiotic,LifeLine Pharma,70,237,0,2/14/2026,1
+6/16/2025,Amoxicillin,Antibiotic,PharmaPlus,179,24,155,8/23/2026,0
+4/4/2025,Metformin,Antibiotic,HealthCorp,130,245,0,10/21/2025,1
+3/29/2025,Loratadine,Painkiller,LifeLine Pharma,186,144,42,1/9/2026,0
+2/3/2025,Ibuprofen,Antidiabetic,CareWell Distributors,130,159,0,10/31/2025,1
+1/5/2025,Amoxicillin,Antidiabetic,CareWell Distributors,98,75,23,5/29/2026,0
+3/18/2025,Omeprazole,Antacid,HealthCorp,185,241,0,9/18/2026,1
+3/31/2025,Paracetamol,Antihistamine,CareWell Distributors,102,347,-110,11/24/2026,1
+4/29/2025,Aspirin,Antibiotic,PharmaPlus,158,85,73,5/3/2026,0
+3/11/2025,Cetirizine,Painkiller,MediCare Ltd.,136,116,20,1/9/2026,0
+1/30/2025,Metformin,Antacid,LifeLine Pharma,160,155,5,10/27/2026,0
+1/29/2025,Omeprazole,Antacid,CareWell Distributors,159,229,0,11/20/2026,1
+3/27/2025,Metformin,Painkiller,MediCare Ltd.,177,81,96,1/5/2027,0
+1/20/2025,Aspirin,Antibiotic,HealthCorp,64,143,0,8/13/2025,1
+2/12/2025,Cetirizine,Antibiotic,HealthCorp,35,119,0,6/7/2026,1
+1/31/2025,Metformin,Painkiller,CareWell Distributors,116,28,88,3/25/2026,0
+6/15/2025,Ibuprofen,Antacid,HealthCorp,122,89,33,1/16/2026,0
+6/1/2025,Metformin,Antidiabetic,LifeLine Pharma,183,67,116,6/11/2026,0
+2/25/2025,Metformin,Antacid,LifeLine Pharma,187,165,22,9/21/2025,0
+2/19/2025,Aspirin,Antibiotic,LifeLine Pharma,28,113,0,10/28/2025,1
+5/21/2025,Aspirin,Antacid,CareWell Distributors,123,183,0,12/2/2025,1
+5/15/2025,Azithromycin,Antibiotic,LifeLine Pharma,177,107,70,12/23/2026,0
+5/26/2025,Cetirizine,Antacid,MediCare Ltd.,90,135,0,7/13/2026,1
+3/7/2025,Aspirin,Antidiabetic,CareWell Distributors,179,237,0,10/31/2025,1
+3/11/2025,Ibuprofen,Antihistamine,HealthCorp,118,241,0,2/15/2027,1
+3/10/2025,Amoxicillin,Antibiotic,PharmaPlus,101,189,0,12/30/2026,1
+2/7/2025,Amoxicillin,Painkiller,PharmaPlus,33,107,0,8/12/2026,1
+2/6/2025,Azithromycin,Antidiabetic,LifeLine Pharma,152,183,0,2/15/2026,1
+5/3/2025,Ibuprofen,Antidiabetic,CareWell Distributors,59,67,0,12/8/2025,1
+5/20/2025,Loratadine,Antidiabetic,CareWell Distributors,117,60,57,2/7/2027,0
+1/14/2025,Cetirizine,Antacid,CareWell Distributors,61,247,0,3/20/2026,1
+2/7/2025,Paracetamol,Antacid,MediCare Ltd.,157,358,-110,10/2/2026,1
+2/28/2025,Omeprazole,Antacid,MediCare Ltd.,184,142,42,6/30/2026,0
+4/16/2025,Paracetamol,Antidiabetic,LifeLine Pharma,84,222,-110,2/22/2026,1
+6/9/2025,Metformin,Antacid,LifeLine Pharma,22,213,0,1/1/2027,1
+1/25/2025,Azithromycin,Antacid,CareWell Distributors,69,19,50,7/26/2025,0
+5/24/2025,Aspirin,Antibiotic,MediCare Ltd.,138,63,75,11/9/2025,0
+3/3/2025,Aspirin,Painkiller,CareWell Distributors,162,215,0,9/30/2026,1
+5/1/2025,Paracetamol,Antidiabetic,HealthCorp,73,252,-110,8/24/2025,1
+1/19/2025,Azithromycin,Antacid,MediCare Ltd.,55,52,3,4/23/2026,0
+6/16/2025,Cetirizine,Antidiabetic,HealthCorp,52,108,0,12/16/2025,1
+6/28/2025,Ibuprofen,Antacid,PharmaPlus,97,67,30,4/1/2027,0
+6/10/2025,Cetirizine,Antibiotic,CareWell Distributors,30,231,0,4/11/2026,1
+5/8/2025,Azithromycin,Antihistamine,HealthCorp,125,58,67,1/5/2026,0
+1/2/2025,Amoxicillin,Painkiller,MediCare Ltd.,35,143,0,8/17/2026,1
+3/2/2025,Loratadine,Antidiabetic,CareWell Distributors,141,121,20,2/11/2027,0
+2025-07-17,panadol,,,0,0,0,2025-07-31,0
+2025-07-17,panadol,tablet,faraz hussain,500,0,500,2025-07-31,0
+2025-07-17,panadol,tablet,faraz hussain,500,0,500,2025-07-31,0
+2025-07-31,pandol 2,capsol,faraz ,500,5,495,2025-07-31,0
